@@ -24,6 +24,6 @@ I'm open to collaboration on exciting projects. If you have something interestin
 
 ## 📫 Connect with Me
 
-You can find me on [![LinkedIn](https://www.linkedin.com/in/arsham-mohamed-941bb7249). Let's connect and share our experiences!
+You can find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arsham_Mohamed-blue?style=flat-square&logo=linkedin&labelColor=0077B5&logoColor=white)](https://www.linkedin.com/in/arsham-mohamed-941bb7249). Let's connect and share our experiences!
 
 Thanks for stopping by! 😊
