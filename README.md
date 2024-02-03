@@ -22,8 +22,13 @@ I'm on a journey of continuous learning, with a focus on software development pr
 
 I'm open to collaboration on exciting projects. If you have something interesting brewing or want to discuss ideas, feel free to reach out.
 
+## 🤝 Let's Collaborate
+
+I'm open to collaboration on exciting projects. If you have something interesting brewing or want to discuss ideas, feel free to reach out.
+
 ## 📫 Connect with Me
 
-You can find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arsham_Mohamed-blue?style=flat-square&logo=linkedin&labelColor=0077B5&logoColor=white)](https://www.linkedin.com/in/arsham-mohamed-941bb7249). Let's connect and share our experiences!
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arsham_Mohamed-blue?style=flat-square&logo=linkedin&labelColor=0077B5&logoColor=white)](https://www.linkedin.com/in/arsham-mohamed-941bb7249)
+- Stack Overflow: [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Arsham-orange?style=flat-square&logo=stackoverflow&labelColor=F48024&logoColor=white)](https://stackoverflow.com/users/23327007/arsham)
 
 Thanks for stopping by! 😊
