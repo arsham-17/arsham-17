@@ -30,4 +30,25 @@ I'm open to collaboration on exciting projects. If you have something interestin
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arsham_Mohamed-blue?style=flat-square&logo=linkedin&labelColor=0077B5&logoColor=white)](https://www.linkedin.com/in/arsham-mohamed-941bb7249)
 - Stack Overflow: [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Arsham-orange?style=flat-square&logo=stackoverflow&labelColor=F48024&logoColor=white)](https://stackoverflow.com/users/23327007/arsham)
 
+
+# Data Science Course Completion Achievement 🎓
+
+I am excited to share that I have successfully completed the Data Science course with IBM! 🚀 This comprehensive program covered key topics in data analysis, machine learning, and more, providing me with valuable skills for the dynamic field of data science.
+
+## Key Learnings:
+- Data Analysis with Python and SQL
+- Machine Learning Fundamentals
+- Data Visualization Techniques
+- Real-world Project Experience
+
+## Certification
+[Add a badge or link to your certification here]
+
+## Acknowledgments
+Grateful to IBM for the insightful course and hands-on learning opportunities. Looking forward to applying these skills in real-world scenarios and continuing my journey in data science!
+
+Feel free to connect with me on LinkedIn for more updates: [Your LinkedIn Profile Link]
+
+#DataScience #IBMDataScience #LearningJourney
+
 Thanks for stopping by! 😊
