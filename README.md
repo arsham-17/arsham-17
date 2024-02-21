@@ -22,9 +22,7 @@ I'm on a journey of continuous learning, with a focus on software development pr
 
 I'm open to collaboration on exciting projects. If you have something interesting brewing or want to discuss ideas, feel free to reach out.
 
-## 🤝 Let's Collaborate
 
-I'm open to collaboration on exciting projects. If you have something interesting brewing or want to discuss ideas, feel free to reach out.
 
 ## 📫 Connect with Me
 
