@@ -46,10 +46,6 @@ I am excited to share that I have successfully completed the Data Science course
 
 ## Acknowledgments
 Grateful to IBM for the insightful course and hands-on learning opportunities. Looking forward to applying these skills in real-world scenarios and continuing my journey in data science!
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="arsham-m-941bb7249" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/arsham-m-941bb7249?trk=profile-badge">Arsham M.</a></div>
-              
-
 #DataScience #IBMDataScience #LearningJourney
 
 Thanks for stopping by! 😊
