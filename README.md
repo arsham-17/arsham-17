@@ -42,12 +42,11 @@ I am excited to share that I have successfully completed the Data Science course
 - Real-world Project Experience
 
 ## Certification
-[Add a badge or link to your certification here]
+[https://coursera.org/share/006839851c27acadf07c1722bba83f55]
 
 ## Acknowledgments
 Grateful to IBM for the insightful course and hands-on learning opportunities. Looking forward to applying these skills in real-world scenarios and continuing my journey in data science!
 
-Feel free to connect with me on LinkedIn for more updates: [Your LinkedIn Profile Link]
 
 #DataScience #IBMDataScience #LearningJourney
 
