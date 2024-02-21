@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm Arsham, and I'm passionate about Cybersecurity. Curren
 
 ## 🛠️ Using Tools
 
-- **Operating System:** macOS (Ventura)
+- **Operating System:** MacOS (Ventura) | Windows | Linux
 - **Editors:** VSCode, Sublime Text
 - **Development Stack:** XAMPP
 
