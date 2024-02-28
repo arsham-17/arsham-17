@@ -31,25 +31,6 @@ I'm open to collaboration on exciting projects. If you have something interestin
 - Stack Overflow: [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Arsham-orange?style=flat-square&logo=stackoverflow&labelColor=F48024&logoColor=white)](https://stackoverflow.com/users/23327007/arsham)
 
 
-      <style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=arsham-m-941bb7249" target="_blank">Follow on LinkedIn</a>
-
 # Data Science Course Completion Achievement 🎓
 
 I am excited to share that I have successfully completed the Data Science course with IBM! 🚀 This comprehensive program covered key topics in data analysis, machine learning, and more, providing me with valuable skills for the dynamic field of data science.
